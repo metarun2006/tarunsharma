@@ -1,0 +1,30 @@
+ul{
+    padding-left: 0;
+    list-style: none;
+}
+.container-background{
+    background-color: #ECF8F9;
+    background-size: 100% 100%;
+}
+.strikethrough{
+    text-decoration: line-through;
+}
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+}
+#name{
+    margin-left: 5px;
+    margin-right:5px;
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+}
+#icon-square{
+    width: 48px;
+    height: 48px;
+}
+#list-item{
+    margin-bottom: 10px;
+}
+
+
